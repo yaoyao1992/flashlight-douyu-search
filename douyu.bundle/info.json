@@ -1,0 +1,7 @@
+{
+	"name": "douyu",
+	"displayName": "Douyu Tv",
+	"examples": ["douyu tv qiu wang","dy qiu wang"],
+	"examples_de": ["douyu tv qiu wang","tyh dy qiu wang"],
+	"categories": ["Search"]
+}
