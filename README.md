@@ -12,6 +12,6 @@ dy 房间号
 
 这样就能直接 搜索dy zhaoshen
 
-<img src='https://github.com/yaoyao1992/123/master/Screenshot.png' width='100%'/>
+<img src='https://github.com/yaoyao1992/flashlight-douyu-search/blob/master/Screenshot.png' width='100%'/>
 
 develop by 球迷
